@@ -1,8 +1,4 @@
-use std::{
-    convert::Infallible,
-    net::SocketAddr,
-    sync::Arc,
-};
+use std::{convert::Infallible, net::SocketAddr, sync::Arc};
 
 use anyhow::*;
 use clap::Clap;
